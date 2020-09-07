@@ -16,7 +16,7 @@ Yet Another Youtube Scrapper
 ### How To Use
 
 - Get your Youtube API v3 key from your Google Console.
-- Paste API KEY in `.key` file
+- Paste API KEY in `.env` file
 - Get the channel URL you want to scrap.
 - Install requirements by `pip install -r requirements.txt`
 - Finally, run Code by `python youtube.py`
